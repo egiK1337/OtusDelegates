@@ -1,0 +1,14 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\bin\Debug\net8.0\OtusDelegates.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\bin\Debug\net8.0\OtusDelegates.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\bin\Debug\net8.0\OtusDelegates.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\bin\Debug\net8.0\OtusDelegates.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\bin\Debug\net8.0\OtusDelegates.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\refint\OtusDelegates.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\OtusDelegates.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusDelegates\OtusDelegates\obj\Debug\net8.0\ref\OtusDelegates.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\searchelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:searchelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\ifloatnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:ifloatnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\floatnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:floatnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\filesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:filesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otusdelegates\\otusdelegates\\filefoundargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB4379B-C155-4CDE-8C5C-F5801FFC17D3}|OtusDelegates.csproj|solutionrelative:filefoundargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloatNum.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\FloatNum.cs",
+              "RelativeDocumentMoniker": "FloatNum.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\FloatNum.cs",
+              "RelativeToolTip": "FloatNum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:51:32.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFloatNum.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\IFloatNum.cs",
+              "RelativeDocumentMoniker": "IFloatNum.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\IFloatNum.cs",
+              "RelativeToolTip": "IFloatNum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:48:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filesearch.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\Filesearch.cs",
+              "RelativeDocumentMoniker": "Filesearch.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\Filesearch.cs",
+              "RelativeToolTip": "Filesearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:44:11.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileFoundArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\FileFoundArgs.cs",
+              "RelativeDocumentMoniker": "FileFoundArgs.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\FileFoundArgs.cs",
+              "RelativeToolTip": "FileFoundArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:43:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchElement.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\SearchElement.cs",
+              "RelativeDocumentMoniker": "SearchElement.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\SearchElement.cs",
+              "RelativeToolTip": "SearchElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:42:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\OtusDelegates\\OtusDelegates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:37:02.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
